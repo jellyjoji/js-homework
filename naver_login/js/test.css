@@ -1,0 +1,7 @@
+.error {
+  color: red;
+}
+
+.is-valid {
+  border: 2px solid green;
+}
